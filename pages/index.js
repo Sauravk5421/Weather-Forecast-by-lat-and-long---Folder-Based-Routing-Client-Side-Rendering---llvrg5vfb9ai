@@ -37,7 +37,7 @@ export default function Home() {
                 <thead>
                   <tr>
                       <th>Time</th>
-                      <th>Temperature</th>
+                      <th>Temperature (°C)</th>
                       <th>Summary</th>
                   </tr>
                 </thead>
